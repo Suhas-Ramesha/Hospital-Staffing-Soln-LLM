@@ -78,7 +78,7 @@ Edit
 
 - Fine-tuned on: Patient admission Q&A (custom synthetic + real data)
 
-- Deployed to: [Hugging Face Hub]() 
+- Deployed to: [Hugging Face Hub](https://huggingface.co/Suhas319/staffing-assistant-llm) 
 
 ## 🙋‍♂️ Author
 Suhas Ramesha
