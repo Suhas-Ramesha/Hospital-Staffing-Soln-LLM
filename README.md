@@ -82,7 +82,7 @@ Edit
 
 ## 🙋‍♂️ Author
 Suhas Ramesha
-🔗 (LinkedIn)[https://linkedin.com/suhas-ramesha/]
+🔗 [LinkedIn](https://linkedin.com/suhas-ramesha/)
 💻 Built with 💙 using Unsloth, Streamlit, and Hugging Face
 
 ## 📄 License
