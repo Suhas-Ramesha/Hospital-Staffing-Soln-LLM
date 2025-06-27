@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+prophet
+langchain>=0.2.0
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+torch
+tf-keras
+requests

@@ -1,0 +1,14 @@
+Hospital Staffing Guidelines and Policies
+
+1. Each doctor can effectively manage up to 10 patients per day.
+2. For every doctor, two nurses must be assigned to assist with care.
+3. Support staff (e.g., ward boys, cleaning personnel) should be allocated at 1 per 20 patients.
+4. Night shifts must have at least 1 doctor, 2 nurses, and 1 support staff per 15 patients.
+5. Doctors and nurses should not be assigned more than 5 consecutive working days.
+6. Nurses must have a minimum of 8 hours between two shifts.
+7. Emergency departments require a minimum of 2 doctors and 4 nurses at all times.
+8. Weekends should include one additional support staff per shift for patient assistance.
+9. If patient admission forecasts exceed 100 patients per day, an additional doctor and two nurses must be assigned.
+10. Shifts are divided into Morning (8 AM - 4 PM), Evening (4 PM - 12 AM), and Night (12 AM - 8 AM).
+
+Policies must be followed strictly to ensure patient safety, reduce staff burnout, and maintain quality care.
